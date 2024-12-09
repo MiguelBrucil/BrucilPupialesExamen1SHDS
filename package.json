@@ -1,0 +1,11 @@
+{
+  "name": "brucil_pupiales_examen1shds",
+  "version": "1.0.0",
+  "description": "Examen1SDHDS",
+  "main": "brucil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel",
+  "license": "ISC"
+}
